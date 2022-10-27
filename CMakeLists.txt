@@ -3,4 +3,4 @@ project(geom_project)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(geom_project main.cpp)
+add_subdirectory(src)
